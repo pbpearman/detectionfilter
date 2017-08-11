@@ -50,3 +50,5 @@ vignette("simdat", package="detectionfilter")</p>
 <h2>Modifications</h2>
 
 <p>10-Aug-2017  Edit of main_analyses.Rmd, including minor changes to graphs and clarification of text.  Some questions are inserted IN CAPS and need to be addressed. Addition of README.txt, modification of .gitignore</p>
+
+<p>11-Aug-2017  Copy /inst/doc/main_analysis.Rmd to /vignettes/main_analyses.Rmd</p>

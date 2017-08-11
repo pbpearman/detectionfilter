@@ -44,3 +44,5 @@ The vignette that describes all the analyses conducted in the manuscript:
 ## Modifications
 
 10-Aug-2017  Edit of main_analyses.Rmd, including minor changes to graphs and clarification of text.  Some questions are inserted IN CAPS and need to be addressed. Addition of README.txt, modification of .gitignore
+
+11-Aug-2017  Copy /inst/doc/main\_analysis.Rmd to /vignettes/main\_analyses.Rmd
